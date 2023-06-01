@@ -1,4 +1,4 @@
-# JiZhiCMS is vulnerable to Server-side request forgery (SSRF)
+# JiZhiCMS is vulnerable to Unrestricted File Upload
 ## Description
     JiZhiCMS 2.4.5 is vulnerable to Unrestricted File Upload which allows remote attackers to execute arbitrary code by uploading a php file.
 ## Vendor Homepage
